@@ -6,6 +6,7 @@ export default [
             'Object-Oriented',
             'Object-Based',
             'Procedural',
+            'none of these',
         ]
     },
     {
@@ -15,6 +16,7 @@ export default [
             'document.write()',
             'console.log()',
             'window.alert()',
+            'none of these',
         ]
     },
     {
@@ -24,6 +26,7 @@ export default [
             'Boolean',
             'Undefined',
             'Object',
+            'none of these',
         ]
     },
     {
@@ -32,7 +35,8 @@ export default [
         options : [
             'Return Object',
             'Return String',
-            'Return Integer'
+            'Return Integer',
+            'none of these',
         ]
     },
     {
@@ -42,6 +46,7 @@ export default [
             'stringify()',
             'parse()',
             'convert()',
+            'none of these',
         ]
     }
 ];
